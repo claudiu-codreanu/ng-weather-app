@@ -18,4 +18,4 @@ But it was fun, and I look forward to the remaining 8 chapters!
 
 <br>
 
-<!--By the way, I published the project live, using github pages. Please find it <a href="https://claudiu-codreanu.github.io/ng-issue-tracker/" target="_blank">**here**</a>.-->
+<!--By the way, I published the project live, using github pages. Please find it <a href="https://claudiu-codreanu.github.io/ng-weather-app/" target="_blank">**here**</a>.-->
